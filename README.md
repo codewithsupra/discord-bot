@@ -1,8 +1,6 @@
 # Discord Weather Bot Project
 
-The completed version of our Discord Weather Bot project for [Complete Node.js Developer: Zero to Mastery](https://academy.zerotomastery.io/a/aff_jqtq5631/external?affcode=441520_1jw4f2ay).
 
-We recommend that you code along with us and use this only if you ever get stuck or you don't like to code along.
 
 ## Seting Up the Project
 
